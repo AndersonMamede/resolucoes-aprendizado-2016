@@ -12,7 +12,7 @@
 
 
 ## Ler 366 artigos (0/366)
-Interesse: Big data, MongoDB, NodeJS
+Interesse: Big data, MongoDB, NodeJS, ReactJS, AngularJS
 
 -------------------
 
