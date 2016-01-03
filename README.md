@@ -86,5 +86,6 @@
 ## Ler 366 artigos (0/366)
 ###### Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS Prototype, Design Patterns
 https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
+http://www.sitepoint.com/sql-vs-nosql-differences/
 
 -------------------
