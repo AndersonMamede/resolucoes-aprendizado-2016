@@ -40,31 +40,31 @@ Interesse: Big data, MongoDB, NodeJS, ReactJS, AngularJS
 
 ## Ler 5 livros sobre finanças/investimentos/business (0,5/5)
 [...] Os segredos da mente milionária<br />
-[] Geração de Valor 1<br />
-[] Geração de Valor 2<br />
-[] Você e seu dinheiro (Carl Richards)<br />
-[] Os princípios de investimento de Warren Buffett (James Pardoe)
+[ ] Geração de Valor 1<br />
+[ ] Geração de Valor 2<br />
+[ ] Você e seu dinheiro (Carl Richards)<br />
+[ ] Os princípios de investimento de Warren Buffett (James Pardoe)
 
 -------------------
 
 
 ## Ler 2 livros sobre desenvolvimento (0/2)
-[] Código limpo (Robert Cecil Martin)
+[ ] Código limpo (Robert Cecil Martin)
 
 -------------------
 
 
 ## Ler 3 livros em inglês (0/3)
-[] If I stay (Gayle Forman)<br />
-[] Harry Potter and the Goblet of Fire<br />
-[] Harry Potter and the Order of the Phoenix
+[ ] If I stay (Gayle Forman)<br />
+[ ] Harry Potter and the Goblet of Fire<br />
+[ ] Harry Potter and the Order of the Phoenix
 
 -------------------
 
 
 ## Estudar/dominar 2 assuntos em inglês (0/2)
-[] Present Perfect Tense<br />
-[] Prepositions
+[ ] Present Perfect Tense<br />
+[ ] Prepositions
 
 -------------------
 
