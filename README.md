@@ -2,24 +2,11 @@
 
 
 ## Criar blog em andersonmamede.com.br (0/1)
-[]
 
 -------------------
 
 
 ## Escrever 12 artigos para o blog (0/12)
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?
 
 -------------------
 
@@ -31,10 +18,6 @@ Focar nos assuntos: Big data, MongoDB, NodeJS
 
 
 ## Criar 4 projetos utilizando tecnologias recem aprendidas (0/4)
-[] ?<br />
-[] ?<br />
-[] ?<br />
-[] ?<br />
 
 -------------------
 
@@ -50,8 +33,7 @@ Focar nos assuntos: Big data, MongoDB, NodeJS
 
 
 ## Ler 2 Livros sobre desenvolvimento (0/2)
-[] Código limpo (Robert Cecil Martin)<br />
-[] ?
+[] Código limpo (Robert Cecil Martin)
 
 -------------------
 
@@ -66,19 +48,16 @@ Focar nos assuntos: Big data, MongoDB, NodeJS
 
 ## Estudar 3 assuntos em inglês (0/3)
 [] Present Perfect Tense<br />
-[] Prepositions<br />
-[] ?
+[] Prepositions
 
 -------------------
 
 
 ## Estudar as novas regras ortográficas da Língua Portuguesa (0/1)
-[]
 
 -------------------
 
 
 ## Iniciar um projeto (carrinho) usando Arduino (0/1)
-[]
 
 -------------------
