@@ -11,12 +11,6 @@
 -------------------
 
 
-## Ler 366 artigos (0/366)
-Interesse: Big data, MongoDB, NodeJS, ReactJS, AngularJS
-
--------------------
-
-
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (0/2)
 
 -------------------
@@ -85,5 +79,12 @@ Interesse: Big data, MongoDB, NodeJS, ReactJS, AngularJS
 
 
 ## Criar 1 projeto que utilize Chromecast (0/1)
+
+-------------------
+
+
+## Ler 366 artigos (0/366)
+###### Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS Prototype, Design Patterns
+https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
 
 -------------------
