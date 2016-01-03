@@ -64,6 +64,11 @@ Interesse: Big data, MongoDB, NodeJS
 -------------------
 
 
+## Assistir 6 filmes em inglês e sem legendas (0/6)
+
+-------------------
+
+
 ## Estudar as novas regras ortográficas da Língua Portuguesa (0/1)
 
 -------------------
