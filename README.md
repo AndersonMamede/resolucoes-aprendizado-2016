@@ -33,7 +33,7 @@ Interesse: Big data, MongoDB, NodeJS
 -------------------
 
 
-## Ler 5 Livros sobre finanças/investimentos/business (0,5/5)
+## Ler 5 livros sobre finanças/investimentos/business (0,5/5)
 [...] Os segredos da mente milionária<br />
 [] Geração de Valor 1<br />
 [] Geração de Valor 2<br />
@@ -43,13 +43,13 @@ Interesse: Big data, MongoDB, NodeJS
 -------------------
 
 
-## Ler 2 Livros sobre desenvolvimento (0/2)
+## Ler 2 livros sobre desenvolvimento (0/2)
 [] Código limpo (Robert Cecil Martin)
 
 -------------------
 
 
-## Ler 3 Livros em inglês (0/3)
+## Ler 3 livros em inglês (0/3)
 [] If I stay (Gayle Forman)<br />
 [] Harry Potter and the Goblet of Fire<br />
 [] Harry Potter and the Order of the Phoenix
