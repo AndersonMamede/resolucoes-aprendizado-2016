@@ -1,70 +1,64 @@
 # Resoluções de Aprendizado 2016
 
 
-## Voltar a estudar inglês (0/1)
+## Criar blog em andersonmamede.com.br (0/1)
 
 -------------------
 
 
-## Ler 3 Livros sobre design (0/3)
+## Escrever 12 artigos para o blog (0/12)
 
 -------------------
 
 
-## Ler 3 Livros sobre business (0/3)
+## Ler 200 artigos (0/200)
+Focar nos assuntos: Big data, MongoDB, NodeJS
 
 -------------------
 
 
-## Ler 3 Livros sobre desenvolvimento (0/3)
+## Criar 4 projetos utilizando tecnologias recem aprendidas (0/4)
+[] ?
+[] ?
+[] ?
+[] ?
 
 -------------------
 
 
-## Ler 366 artigos (4/366)
-
-1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
-2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
-3. http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/
-4. http://www.businessinsider.com/googles-ranking-system-okr-2014-1
-
--------------------
-
-
-## Escrever 12 artigos (0/12)
+## Ler 5 Livros sobre finanças/investimentos/business (0,5/5)
+[...] Os segredos da mente milionária
+[] Geração de Valor 1
+[] Geração de Valor 2
+[] Você e seu dinheiro (Carl Richards)
+[] Os princípios de investimento de Warren Buffett (James Pardoe)
 
 -------------------
 
 
-## Terminar de escrever meu livro sobre [Redmine](https://www.gitbook.com/book/victorlcampos/curso-redmine/details)(0/1)
-
--------------------
-
-## Ver 24 palestras no youtube (1/24)
-
-1. https://www.youtube.com/watch?v=3VoFq5lng_4
+## Ler 2 Livros sobre desenvolvimento (0/2)
+[] Código limpo (Robert Cecil Martin)
+[] ?
 
 -------------------
 
 
-## Gravar 12 vídeos (0/12)
+## Ler 3 Livros em inglês (0/3)
+[] If I stay
+[] Harry Potter and the Goblet of Fire
+[] Harry Potter and the Order of the Phoenix
 
 -------------------
 
 
-## Participar de um evento de computação (0/1)
+## Estudar 3 assuntos em inglês (0/3)
+[] Present Perfect Tense
+[] Prepositions
+[] ?
 
 -------------------
 
 
-## Palestrar 2 vezes (0/2)
-
--------------------
-
-
-## Contribuir mais com o open source do que em 2015 (#pull requests) (1/27)
-1. https://github.com/lucasmazza/language-elixir/pull/26
-2. https://github.com/h4cc/awesome-elixir/pull/1467
-
+## Iniciar um projeto (carrinho) usando Arduino (0/1)
 
 -------------------
