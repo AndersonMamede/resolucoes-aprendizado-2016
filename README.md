@@ -22,7 +22,8 @@
 
 
 ## Criar 3 aplicativos para celular e disponibilizá-los para Android e Windows Phone (0,5/3)
-[...] LCF
+
+1. LCF (em andamento)
 
 -------------------
 
@@ -33,32 +34,32 @@
 
 
 ## Ler 5 livros sobre finanças/investimentos/business (0,5/5)
-[...] Os segredos da mente milionária<br />
-[ ] Geração de Valor 1<br />
-[ ] Geração de Valor 2<br />
-[ ] Você e seu dinheiro (Carl Richards)<br />
-[ ] Os princípios de investimento de Warren Buffett (James Pardoe)
+1. Os segredos da mente milionária (em andamento)<br />
+2. Geração de Valor 1<br />
+3. Geração de Valor 2<br />
+4. Você e seu dinheiro (Carl Richards)<br />
+5. Os princípios de investimento de Warren Buffett (James Pardoe)
 
 -------------------
 
 
 ## Ler 2 livros sobre desenvolvimento (0/2)
-[ ] Código limpo (Robert Cecil Martin)
+1. Código limpo (Robert Cecil Martin)
 
 -------------------
 
 
 ## Ler 3 livros em inglês (0/3)
-[ ] If I stay (Gayle Forman)<br />
-[ ] Harry Potter and the Goblet of Fire<br />
-[ ] Harry Potter and the Order of the Phoenix
+1. If I stay (Gayle Forman) (em andamento)<br />
+2. Harry Potter and the Goblet of Fire<br />
+3. Harry Potter and the Order of the Phoenix
 
 -------------------
 
 
 ## Estudar/dominar 2 assuntos em inglês (0/2)
-[ ] Present Perfect Tense<br />
-[ ] Prepositions
+1. Present Perfect Tense<br />
+2. Prepositions
 
 -------------------
 
@@ -85,7 +86,8 @@
 
 ## Ler 366 artigos (0/366)
 ###### Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS Prototype, Design Patterns
-https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5<br />
-http://www.sitepoint.com/sql-vs-nosql-differences/
+
+1. https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5<br />
+2. http://www.sitepoint.com/sql-vs-nosql-differences/
 
 -------------------
