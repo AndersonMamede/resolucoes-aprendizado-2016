@@ -58,6 +58,11 @@ Interesse: Big data, MongoDB, NodeJS
 -------------------
 
 
-## Iniciar um projeto (carrinho) usando Arduino (0/1)
+## Iniciar 1 projeto (carrinho) usando Arduino (0/1)
+
+-------------------
+
+
+## Criar 1 projeto que utilize Chromecast (0/1)
 
 -------------------
