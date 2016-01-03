@@ -22,6 +22,11 @@ Interesse: Big data, MongoDB, NodeJS, ReactJS, AngularJS
 -------------------
 
 
+## Criar 2 projetos (PHP) utilizando framework (0/2)
+
+-------------------
+
+
 ## Criar 3 aplicativos para celular e disponibilizá-los para Android e Windows Phone (0,5/3)
 [...] LCF
 
