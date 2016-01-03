@@ -1,4 +1,4 @@
-# Resoluções 2016
+# Resoluções de Aprendizado 2016
 
 
 ## Criar blog em andersonmamede.com.br (0/1)
@@ -17,7 +17,18 @@ Interesse: Big data, MongoDB, NodeJS
 -------------------
 
 
-## Criar 4 projetos utilizando tecnologias recem aprendidas (0/4)
+## Criar 2 projetos utilizando tecnologias recém aprendidas (0/2)
+
+-------------------
+
+
+## Criar 3 aplicativos para celular e disponibilizá-los para Android e Windows Phone (0,5/3)
+[...] LCF
+
+-------------------
+
+
+## Criar 2 extensões para Chrome (0/2)
 
 -------------------
 
@@ -39,14 +50,14 @@ Interesse: Big data, MongoDB, NodeJS
 
 
 ## Ler 3 Livros em inglês (0/3)
-[] If I stay<br />
+[] If I stay (Gayle Forman)<br />
 [] Harry Potter and the Goblet of Fire<br />
 [] Harry Potter and the Order of the Phoenix
 
 -------------------
 
 
-## Estudar 3 assuntos em inglês (0/3)
+## Estudar/dominar 2 assuntos em inglês (0/2)
 [] Present Perfect Tense<br />
 [] Prepositions
 
