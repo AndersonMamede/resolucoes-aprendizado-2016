@@ -34,32 +34,32 @@
 
 
 ## Ler 5 livros sobre finanças/investimentos/business (0,5/5)
-1. Os segredos da mente milionária (em andamento)<br />
-2. Geração de Valor 1<br />
-3. Geração de Valor 2<br />
-4. Você e seu dinheiro (Carl Richards)<br />
-5. Os princípios de investimento de Warren Buffett (James Pardoe)
+1. Os segredos da mente milionária (em andamento)
+2. Geração de Valor 1 (iniciar)
+3. Geração de Valor 2 (iniciar)
+4. Você e seu dinheiro (Carl Richards) (iniciar)
+5. Os princípios de investimento de Warren Buffett (James Pardoe) (iniciar)
 
 -------------------
 
 
 ## Ler 2 livros sobre desenvolvimento (0/2)
-1. Código limpo (Robert Cecil Martin)
+1. Código limpo (Robert Cecil Martin) (iniciar)
 
 -------------------
 
 
 ## Ler 3 livros em inglês (0/3)
-1. If I stay (Gayle Forman) (em andamento)<br />
-2. Harry Potter and the Goblet of Fire<br />
-3. Harry Potter and the Order of the Phoenix
+1. If I stay (Gayle Forman) (em andamento)
+2. Harry Potter and the Goblet of Fire (iniciar)
+3. Harry Potter and the Order of the Phoenix (iniciar)
 
 -------------------
 
 
 ## Estudar/dominar 2 assuntos em inglês (0/2)
-1. Present Perfect Tense<br />
-2. Prepositions
+1. Present Perfect Tense (iniciar)
+2. Prepositions (iniciar)
 
 -------------------
 
