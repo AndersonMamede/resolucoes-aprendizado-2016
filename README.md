@@ -91,5 +91,6 @@
 2. http://www.sitepoint.com/sql-vs-nosql-differences/
 3. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
 4. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop
+5. http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/
 
 -------------------
