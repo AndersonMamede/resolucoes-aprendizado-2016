@@ -22,13 +22,22 @@
 
 
 ## Criar 3 aplicativos para celular e disponibilizá-los para Android e Windows Phone (0,5/3)
-
 1. LCF (em andamento)
 
 -------------------
 
 
 ## Criar 2 extensões para Chrome (0/2)
+
+-------------------
+
+
+## Iniciar 1 projeto (carrinho) usando Arduino (0/1)
+
+-------------------
+
+
+## Criar 1 projeto que utilize Chromecast (0/1)
 
 -------------------
 
@@ -70,16 +79,6 @@
 
 
 ## Estudar as novas regras ortográficas da Língua Portuguesa (0/1)
-
--------------------
-
-
-## Iniciar 1 projeto (carrinho) usando Arduino (0/1)
-
--------------------
-
-
-## Criar 1 projeto que utilize Chromecast (0/1)
 
 -------------------
 
