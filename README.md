@@ -84,11 +84,12 @@
 -------------------
 
 
-## Ler 366 artigos (3/366)
+## Ler 366 artigos (4/366)
 ###### Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS Prototype, Design Patterns, Webworker
 
 1. https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
 2. http://www.sitepoint.com/sql-vs-nosql-differences/
 3. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
+4. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop
 
 -------------------
