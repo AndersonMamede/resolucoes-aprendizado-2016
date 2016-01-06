@@ -23,8 +23,9 @@
 
 ## Criar 3 aplicativos para celular e disponibilizá-los para Android e Windows Phone (0,5/3)
 1. LCF (em andamento)
-2. ?
-3. ?
+2. ? (iniciar)
+3. ? (iniciar)
+
 -------------------
 
 
@@ -60,7 +61,7 @@
 
 ## Ler 2 livros sobre desenvolvimento (0/2)
 1. Código limpo (Robert Cecil Martin) (iniciar)
-2. ?
+2. ? (iniciar)
 
 -------------------
 
