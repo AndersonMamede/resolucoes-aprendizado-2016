@@ -92,7 +92,8 @@
 
 
 ## Ler 366 artigos (5/366)
-###### Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS prototype, Design Patterns, WebWorker, ECMAScript 5/6, JS promises
+###### _Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS prototype, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
+###### _Artigos a serem lidos novamente estão marcados em negrito_
 
 1. https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
 2. http://www.sitepoint.com/sql-vs-nosql-differences/
