@@ -99,6 +99,6 @@
 3. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
 4. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop
 5. http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/
-6. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
+6. **http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/**
 
 -------------------
