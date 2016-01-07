@@ -91,7 +91,7 @@
 -------------------
 
 
-## Ler 366 artigos (5/366)
+## Ler 366 artigos (6/366)
 ###### _Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS prototype, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 
