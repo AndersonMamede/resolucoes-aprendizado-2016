@@ -95,11 +95,11 @@
 ###### _Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS prototype, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 
-1. https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
+1. **https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5**
 2. http://www.sitepoint.com/sql-vs-nosql-differences/
 3. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
-4. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop
-5. http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/
+4. **https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop**
+5. **http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/**
 6. **http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/**
 
 -------------------
