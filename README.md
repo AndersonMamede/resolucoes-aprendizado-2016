@@ -91,7 +91,7 @@
 -------------------
 
 
-## Ler 366 artigos (6/366)
+## Ler 366 artigos
 ###### _Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, JS prototype, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 
@@ -101,5 +101,6 @@
 4. **https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/EventLoop**
 5. **http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/**
 6. **http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/**
+7. **https://github.com/grvcoelho/css#properties**
 
 -------------------
