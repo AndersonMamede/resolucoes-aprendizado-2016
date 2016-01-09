@@ -102,5 +102,6 @@
 5. **http://www.thedevpiece.com/why-you-should-avoid-if-else-statements/**
 6. **http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/**
 7. **https://github.com/grvcoelho/css#properties**
+8. **https://medium.com/life-tips/cut-the-bullshit-and-make-time-to-write-99f815014df3**
 
 -------------------
