@@ -11,6 +11,11 @@
 -------------------
 
 
+## Tornar "Quem é esse Pokémon" opensource (0/1)
+
+-------------------
+
+
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (0/2)
 
 -------------------
