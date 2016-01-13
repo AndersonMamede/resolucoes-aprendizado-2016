@@ -105,5 +105,9 @@
 8. **https://medium.com/life-tips/cut-the-bullshit-and-make-time-to-write-99f815014df3**
 9. http://ktquez.com/tutoriais/semantic-version-entendendo-e-como-utilizar-essa-convencao/
 10. **http://www.uxdesign.blog.br/usabilidade/principios-de-usabilidade-hansen/**
+11. **https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59#.3rj65h1kc**
+12. https://davidwalsh.name/css-content-attr
+13. http://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/
+14. **http://tableless.com.br/sobre-prazos-e-produtividade/**
 
 -------------------
