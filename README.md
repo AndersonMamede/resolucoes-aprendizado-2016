@@ -117,5 +117,6 @@
 14. **http://tableless.com.br/sobre-prazos-e-produtividade/**
 15. **http://gabsferreira.com/eficiencia-dos-seletores-css/**
 16. http://gabsferreira.com/a-necessidade-de-parar-um-pouco/
+17. http://gabsferreira.com/como-fazer-perguntas-talvez-voce-simplesmente-nao-esteja-perguntando-direito/
 
 -------------------
