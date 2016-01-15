@@ -115,5 +115,6 @@
 12. https://davidwalsh.name/css-content-attr
 13. http://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/
 14. **http://tableless.com.br/sobre-prazos-e-produtividade/**
+15. **http://gabsferreira.com/eficiencia-dos-seletores-css/**
 
 -------------------
