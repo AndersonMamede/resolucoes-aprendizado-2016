@@ -116,5 +116,6 @@
 13. http://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/
 14. **http://tableless.com.br/sobre-prazos-e-produtividade/**
 15. **http://gabsferreira.com/eficiencia-dos-seletores-css/**
+16. http://gabsferreira.com/a-necessidade-de-parar-um-pouco/
 
 -------------------
