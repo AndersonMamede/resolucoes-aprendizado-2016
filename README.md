@@ -1,7 +1,7 @@
 # Resoluções de Aprendizado 2016
 
 
-## Criar blog em andersonmamede.com.br (0/1)
+## Criar blog em andersonmamede.com.br (1/1)
 
 -------------------
 
