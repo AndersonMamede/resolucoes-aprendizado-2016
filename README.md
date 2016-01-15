@@ -1,7 +1,7 @@
 # Resoluções de Aprendizado 2016
 
 
-## :white_check_mark: Criar blog em andersonmamede.com.br (1/1)
+## :heavy_check_mark: Criar blog em andersonmamede.com.br (1/1)
 
 -------------------
 
