@@ -119,5 +119,6 @@
 16. http://gabsferreira.com/a-necessidade-de-parar-um-pouco/
 17. http://gabsferreira.com/como-fazer-perguntas-talvez-voce-simplesmente-nao-esteja-perguntando-direito/
 18. http://chocoladesign.com/como-escolher-metas-s-m-a-r-t-para-2016
+19. http://usabilitypost.com/2013/08/19/new-ui-pattern-website-loading-bars/
 
 -------------------
