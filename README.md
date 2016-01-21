@@ -120,5 +120,6 @@
 17. http://gabsferreira.com/como-fazer-perguntas-talvez-voce-simplesmente-nao-esteja-perguntando-direito/
 18. http://chocoladesign.com/como-escolher-metas-s-m-a-r-t-para-2016
 19. http://usabilitypost.com/2013/08/19/new-ui-pattern-website-loading-bars/
+20. https://medium.com/keep-learning-keep-growing/5-simple-ux-principles-to-guide-your-product-design-ce760854ff1d
 
 -------------------
