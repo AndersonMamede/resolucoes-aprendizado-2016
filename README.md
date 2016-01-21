@@ -121,5 +121,6 @@
 18. http://chocoladesign.com/como-escolher-metas-s-m-a-r-t-para-2016
 19. http://usabilitypost.com/2013/08/19/new-ui-pattern-website-loading-bars/
 20. https://medium.com/keep-learning-keep-growing/5-simple-ux-principles-to-guide-your-product-design-ce760854ff1d
+21. https://medium.com/@InVisionApp/design-teardown-building-an-office-lunch-app-2c81d794a7d1#.ilq40uxz8
 
 -------------------
