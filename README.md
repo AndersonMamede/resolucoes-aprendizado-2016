@@ -124,5 +124,6 @@
 21. https://medium.com/@InVisionApp/design-teardown-building-an-office-lunch-app-2c81d794a7d1#.ilq40uxz8
 22. **http://www.phpied.com/css-animations-off-the-ui-thread/**
 23. http://blog.alura.com.br/economizando-198-megas-com-um-unico-select/
+24. http://blog.alura.com.br/select-count-count1-e-countnome-a-batalha-dos-counts-de-sql/
 
 -------------------
