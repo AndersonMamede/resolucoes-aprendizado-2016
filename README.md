@@ -27,7 +27,7 @@
 
 
 ## Criar 3 aplicativos para celular e disponibilizá-los para Android (e Windows Phone) (1/3)
-1. LCF - https://play.google.com/store/apps/details?id=com.appstorehouse.lcf
+1. LCF - [Play store https://goo.gl/A7OcOE]
 2. ? (iniciar)
 3. ? (iniciar)
 
