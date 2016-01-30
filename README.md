@@ -128,5 +128,6 @@
 25. http://www.sitepoint.com/make-users-enjoy-waiting/
 26. http://www.sitepoint.com/4-tips-for-using-animation-in-design/
 27. http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/
+28. http://www.sitepoint.com/defensive-programming-in-php/
 
 -------------------
