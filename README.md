@@ -125,5 +125,7 @@
 22. **http://www.phpied.com/css-animations-off-the-ui-thread/**
 23. http://blog.alura.com.br/economizando-198-megas-com-um-unico-select/
 24. http://blog.alura.com.br/select-count-count1-e-countnome-a-batalha-dos-counts-de-sql/
+25. http://www.sitepoint.com/make-users-enjoy-waiting/
+26. http://www.sitepoint.com/4-tips-for-using-animation-in-design/
 
 -------------------
