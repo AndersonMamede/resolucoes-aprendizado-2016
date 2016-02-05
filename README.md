@@ -133,5 +133,6 @@
 29. http://www.sitepoint.com/more-tips-for-defensive-programming-in-php/
 30. http://phpsecurity.readthedocs.org/en/latest/Input-Validation.html
 31. **http://informatize.doriantorres.com.br/blog-informatize/a-tecnica-do-80-20/**
+32. https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/
 
 -------------------
