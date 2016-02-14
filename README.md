@@ -135,5 +135,6 @@
 31. **http://informatize.doriantorres.com.br/blog-informatize/a-tecnica-do-80-20/**
 32. https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/
 33. http://www.infoq.com/br/news/2014/12/expressjs-burned-netflix
+34. http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/
 
 -------------------
