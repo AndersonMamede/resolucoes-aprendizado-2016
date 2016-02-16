@@ -79,8 +79,8 @@
 -------------------
 
 
-## Estudar/dominar 2 assuntos em inglês (0/2)
-1. Present Perfect Tense (iniciar)
+## Estudar/dominar 2 assuntos em inglês (0,5/2)
+1. Present Perfect Tense (0,5)
 2. Prepositions (iniciar)
 
 -------------------
