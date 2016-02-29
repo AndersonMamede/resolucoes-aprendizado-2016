@@ -138,5 +138,6 @@
 34. http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/
 35. https://developers.google.com/web/fundamentals/design-and-ui/animations/css-vs-javascript?hl=en
 36. https://developers.google.com/web/fundamentals/design-and-ui/animations/animations-and-performance
+37. https://medium.com/@zenorocha/how-did-clipboard-js-get-5000-stars-in-a-few-days-2b2248ba7bd8#.svejqzgl6
 
 -------------------
