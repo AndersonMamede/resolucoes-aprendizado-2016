@@ -142,5 +142,6 @@
 38. https://browserdiet.com/en/#repaints-and-reflows
 39. https://browserdiet.com/en/#dont-touch-dom
 40. https://medium.com/@zenorocha/what-are-you-waiting-for-46037938837a#.jovabu1ao
+41. http://designshack.net/articles/ux-design/trendy-app-ux/
 
 -------------------
