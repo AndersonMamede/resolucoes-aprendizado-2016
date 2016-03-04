@@ -143,5 +143,6 @@
 39. https://browserdiet.com/en/#dont-touch-dom
 40. https://medium.com/@zenorocha/what-are-you-waiting-for-46037938837a#.jovabu1ao
 41. http://designshack.net/articles/ux-design/trendy-app-ux/
+42. http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html
 
 -------------------
