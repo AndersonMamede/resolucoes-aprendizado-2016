@@ -34,7 +34,9 @@
 -------------------
 
 
-## Criar 2 extensões para Chrome (0/2)
+## Criar 2 extensões para Chrome (1/2)
+1. Eu Achei Report
+2. ? (iniciar)
 
 -------------------
 
