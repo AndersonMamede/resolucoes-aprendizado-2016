@@ -148,5 +148,6 @@
 42. http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html
 43. http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/
 44. **http://blog.caelum.com.br/as-fantasticas-novidades-do-http-2-0-e-do-spdy/**
+45. https://daveyshafik.com/archives/69603-http2-server-push-youre-doing-it-all-wrong.html
 
 -------------------
