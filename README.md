@@ -149,5 +149,6 @@
 43. http://blog.caelum.com.br/performance-web-no-mundo-real-porque-o-site-do-alura-voa/
 44. **http://blog.caelum.com.br/as-fantasticas-novidades-do-http-2-0-e-do-spdy/**
 45. https://daveyshafik.com/archives/69603-http2-server-push-youre-doing-it-all-wrong.html
+46. https://ma.ttias.be/service-side-push-http2-nghttp2/
 
 -------------------
