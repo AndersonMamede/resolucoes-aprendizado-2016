@@ -150,5 +150,8 @@
 44. **http://blog.caelum.com.br/as-fantasticas-novidades-do-http-2-0-e-do-spdy/**
 45. https://daveyshafik.com/archives/69603-http2-server-push-youre-doing-it-all-wrong.html
 46. https://ma.ttias.be/service-side-push-http2-nghttp2/
+47. http://designshack.net/articles/ux-design/7-ux-tips-you-might-not-have-considered/
+48. **http://designshack.net/articles/ux-design/trendy-app-ux/**
+49. **https://medium.com/better-humans/there-is-no-quick-fix-for-expertise-a7f917b4eca4#.d26cdo1vu**
 
 -------------------
