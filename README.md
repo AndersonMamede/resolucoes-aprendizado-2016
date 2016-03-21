@@ -155,5 +155,6 @@
 48. **http://designshack.net/articles/ux-design/trendy-app-ux/**
 49. **https://medium.com/better-humans/there-is-no-quick-fix-for-expertise-a7f917b4eca4#.d26cdo1vu**
 50. http://code.tutsplus.com/tutorials/why-youre-a-bad-php-programmer--net-18384
+51. http://mathiasbynens.github.io/rel-noopener/
 
 -------------------
