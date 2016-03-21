@@ -88,9 +88,10 @@
 -------------------
 
 
-## Assistir 6 filmes em inglês e sem legendas (2/6)
+## Assistir 6 filmes em inglês e sem legendas (3/6)
 1. Two Weeks
 2. The Innkeepers
+3. Frank & Alice
 
 -------------------
 
