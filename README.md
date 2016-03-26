@@ -156,5 +156,6 @@
 49. **https://medium.com/better-humans/there-is-no-quick-fix-for-expertise-a7f917b4eca4#.d26cdo1vu**
 50. http://code.tutsplus.com/tutorials/why-youre-a-bad-php-programmer--net-18384
 51. http://mathiasbynens.github.io/rel-noopener/
+52. **http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/**
 
 -------------------
