@@ -158,5 +158,6 @@
 51. http://mathiasbynens.github.io/rel-noopener/
 52. **http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/**
 53. http://caminhonline.com/landing-pages-infografico/
+54. https://varvy.com/pagespeed/render-blocking-css.html
 
 -------------------
