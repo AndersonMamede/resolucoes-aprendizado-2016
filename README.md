@@ -160,5 +160,6 @@
 52. **http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/**
 53. http://caminhonline.com/landing-pages-infografico/
 54. https://varvy.com/pagespeed/render-blocking-css.html
+55. http://blog.naoimporta.com/minhas-cinco-razoes-para-nao-usar-nomes-de-variaveis-curtos/
 
 -------------------
