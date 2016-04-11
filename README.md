@@ -161,5 +161,6 @@
 53. http://caminhonline.com/landing-pages-infografico/
 54. https://varvy.com/pagespeed/render-blocking-css.html
 55. http://blog.naoimporta.com/minhas-cinco-razoes-para-nao-usar-nomes-de-variaveis-curtos/
+56. https://medium.com/@danielfeelfine/commit-verbs-101-why-i-like-to-use-this-and-why-you-should-also-like-it-d3ed2689ef70#.1exp41lxo
 
 -------------------
