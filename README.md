@@ -162,5 +162,11 @@
 54. https://varvy.com/pagespeed/render-blocking-css.html
 55. http://blog.naoimporta.com/minhas-cinco-razoes-para-nao-usar-nomes-de-variaveis-curtos/
 56. https://medium.com/@danielfeelfine/commit-verbs-101-why-i-like-to-use-this-and-why-you-should-also-like-it-d3ed2689ef70#.1exp41lxo
+57. https://medium.com/life-learning/8-ways-billionaires-elite-athletes-perform-at-the-highest-level-e6b411633c63
+58. https://medium.com/user-experience-design-1/i-m-not-smart-i-just-sat-there-for-longer-than-you-1f35b5246cbd
+59. https://medium.com/@zenorocha/o-que-voc%C3%AA-est%C3%A1-esperando-f58bbc970054
+60. https://medium.com/@MarkAurel/rethinkdb-um-banco-de-dados-para-aplica%C3%A7%C3%B5es-web-realtime-925680e68771
+61. https://medium.com/the-web-crunch-publication/5-proven-ways-to-win-new-leads-8491f2204d53
+62. **https://medium.com/the-web-crunch-publication/another-13-ways-to-earn-more-income-while-freelancing-75dada33ff2d**
 
 -------------------
