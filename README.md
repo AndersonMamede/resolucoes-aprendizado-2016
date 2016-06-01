@@ -16,12 +16,9 @@
 -------------------
 
 
-## Criar 2 projetos utilizando tecnologias recém aprendidas (0/2)
-
--------------------
-
-
-## Criar 2 projetos (PHP) utilizando framework (0/2)
+## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
+1. NetProj
+2. ? (iniciar)
 
 -------------------
 
@@ -36,13 +33,13 @@
 
 ## Criar 2 extensões para Chrome (1/2)
 1. Eu Achei Report
-2. ? (iniciar)
+2. SCT (em andamento / 90%)
 
 -------------------
 
 
-## Criar 1 jogo (0/1)
-
+## Criar 1 jogo (0,5/1)
+1. Space Battle (20%)
 -------------------
 
 
@@ -56,8 +53,8 @@
 -------------------
 
 
-## Ler 5 livros sobre finanças/investimentos/business (0,5/5)
-1. Os segredos da mente milionária (em andamento)
+## Ler 5 livros sobre finanças/investimentos/business (1/5)
+1. Os segredos da mente milionária
 2. Geração de Valor 1 (iniciar)
 3. Geração de Valor 2 (iniciar)
 4. Você e seu dinheiro (Carl Richards) (iniciar)
@@ -81,14 +78,14 @@
 -------------------
 
 
-## Estudar/dominar 2 assuntos em inglês (0,5/2)
+## Estudar/dominar 2 assuntos em inglês (1/2)
 1. Present Perfect Tense (0,5)
-2. Prepositions (iniciar)
+2. Prepositions (0,5)
 
 -------------------
 
 
-## Assistir 6 filmes em inglês e sem legendas (3/6)
+## Assistir 6 filmes em inglês e sem legendas (4/6)
 1. Two Weeks
 2. The Innkeepers
 3. Frank & Alice
@@ -103,7 +100,7 @@
 
 
 ## Ler 366 artigos
-###### _Assuntos: REST, Big data, MongoDB, NodeJS, ReactJS, AngularJS, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
+###### _Assuntos: Big data, MongoDB, NodeJS, ReactJS, AngularJS, Design Patterns, WebWorker, ECMAScript 5/6, JS promises_
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 
 1. **https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5**
