@@ -166,5 +166,6 @@
 60. https://medium.com/@MarkAurel/rethinkdb-um-banco-de-dados-para-aplica%C3%A7%C3%B5es-web-realtime-925680e68771
 61. https://medium.com/the-web-crunch-publication/5-proven-ways-to-win-new-leads-8491f2204d53
 62. **https://medium.com/the-web-crunch-publication/another-13-ways-to-earn-more-income-while-freelancing-75dada33ff2d**
+63. https://medium.com/@eduardocarmello/a-tristeza-que-d%C3%A1-nos-funcion%C3%A1rios-de-uma-organiza%C3%A7%C3%A3o-ao-ver-talentos-inteligentes-e-%C3%A9ticos-indo-ce0ba36ffb04#.n4z3wenyz
 
 -------------------
