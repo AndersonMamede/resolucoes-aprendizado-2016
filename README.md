@@ -167,5 +167,9 @@
 61. https://medium.com/the-web-crunch-publication/5-proven-ways-to-win-new-leads-8491f2204d53
 62. **https://medium.com/the-web-crunch-publication/another-13-ways-to-earn-more-income-while-freelancing-75dada33ff2d**
 63. https://medium.com/@eduardocarmello/a-tristeza-que-d%C3%A1-nos-funcion%C3%A1rios-de-uma-organiza%C3%A7%C3%A3o-ao-ver-talentos-inteligentes-e-%C3%A9ticos-indo-ce0ba36ffb04#.n4z3wenyz
+64. https://www.linkedin.com/pulse/cinco-maneiras-de-matar-os-seus-sonhos-bel-pesce?trk=hp-feed-article-title-ppl-follow
+65. http://gabsferreira.com/amigos-programadores-parem-de-reclamar/
+66. http://gabsferreira.com/por-que-ser-um-desenvolvedor-razoes-pra-voce-nao-desanimar/
+67. **http://blog.caelum.com.br/kanban-dentro-de-ux/**
 
 -------------------
