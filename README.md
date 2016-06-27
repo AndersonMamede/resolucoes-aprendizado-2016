@@ -158,7 +158,7 @@
 52. **http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/**
 53. http://caminhonline.com/landing-pages-infografico/
 54. https://varvy.com/pagespeed/render-blocking-css.html
-55. http://blog.naoimporta.com/minhas-cinco-razoes-para-nao-usar-nomes-de-variaveis-curtos/
+55. **http://blog.naoimporta.com/minhas-cinco-razoes-para-nao-usar-nomes-de-variaveis-curtos/**
 56. https://medium.com/@danielfeelfine/commit-verbs-101-why-i-like-to-use-this-and-why-you-should-also-like-it-d3ed2689ef70#.1exp41lxo
 57. https://medium.com/life-learning/8-ways-billionaires-elite-athletes-perform-at-the-highest-level-e6b411633c63
 58. https://medium.com/user-experience-design-1/i-m-not-smart-i-just-sat-there-for-longer-than-you-1f35b5246cbd
