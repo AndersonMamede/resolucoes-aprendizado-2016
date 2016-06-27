@@ -18,7 +18,7 @@
 
 
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
-1. NetProj
+1. NetProj (SC)
 2. ? (iniciar)
 
 -------------------
@@ -34,13 +34,13 @@
 
 ## Criar 2 extensões para Chrome (1/2)
 1. Eu Achei Report
-2. SCT (em andamento / 90%)
+2. SCT (em andamento / 95%)
 
 -------------------
 
 
 ## Criar 1 jogo (0,5/1)
-1. Space Battle (20%)
+1. Space Battle (30%)
 -------------------
 
 
@@ -71,8 +71,8 @@
 -------------------
 
 
-## Ler 3 livros em inglês (0/3)
-1. If I stay (Gayle Forman) (em andamento)
+## Ler 3 livros em inglês (1/3)
+1. If I stay (Gayle Forman)
 2. Harry Potter and the Goblet of Fire (iniciar)
 3. Harry Potter and the Order of the Phoenix (iniciar)
 
@@ -86,7 +86,7 @@
 -------------------
 
 
-## Assistir 6 filmes em inglês e sem legendas (4/6)
+## Assistir 6 filmes em inglês (e sem legendas) (4/6)
 1. Two Weeks
 2. The Innkeepers
 3. Frank & Alice
