@@ -34,7 +34,7 @@
 
 ## Criar 2 extensões para Chrome (1/2)
 1. Eu Achei Report
-2. SCT (em andamento / 95%)
+2. SCT (em andamento / 99%)
 
 -------------------
 
