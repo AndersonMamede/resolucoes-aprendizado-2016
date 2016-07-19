@@ -33,9 +33,9 @@
 -------------------
 
 
-## Criar 2 extensões para Chrome (1/2)
+## :heavy_check_mark: Criar 2 extensões para Chrome (2/2)
 1. Eu Achei Report
-2. SCT (em andamento / 99%)
+2. [SCT](https://chrome.google.com/webstore/detail/scriptcase-tools/mfokofbgiajojbgginjeglebmpejnpdm)
 
 -------------------
 
