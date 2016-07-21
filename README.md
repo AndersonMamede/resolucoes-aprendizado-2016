@@ -6,9 +6,10 @@
 -------------------
 
 
-## Escrever 12 artigos para o blog (2/12)
+## Escrever 12 artigos para o blog (3/12)
 1. #1
 2. #2
+3. #3
 
 -------------------
 
