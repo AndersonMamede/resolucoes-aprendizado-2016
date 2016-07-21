@@ -20,7 +20,7 @@
 
 
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
-1. NetProj (SC)
+1. AprovaOn (SC)
 2. ? (iniciar)
 
 -------------------
