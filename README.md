@@ -90,11 +90,12 @@
 -------------------
 
 
-## Assistir 6 filmes em inglês (e sem legendas) (4/6)
+## Assistir 6 filmes em inglês (e sem legendas) (5/6)
 1. Two Weeks
 2. The Innkeepers
 3. Frank & Alice
 4. Blue Jasmine
+5. Friends (série)
 
 -------------------
 
