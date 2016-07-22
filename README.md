@@ -7,9 +7,9 @@
 
 
 ## Escrever 12 artigos para o blog (3/12)
-1. #1
-2. #2
-3. #3
+1. http://blog.andersonmamede.com.br/autocomplete-de-endereco-pelo-CEP/
+2. http://blog.andersonmamede.com.br/preview-de-imagem-antes-do-upload-pre-visualizacao/
+3. http://blog.andersonmamede.com.br/aumentando-a-produtividade-no-scriptcase/
 
 -------------------
 
