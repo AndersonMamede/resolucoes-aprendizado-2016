@@ -176,5 +176,6 @@
 65. http://gabsferreira.com/amigos-programadores-parem-de-reclamar/
 66. http://gabsferreira.com/por-que-ser-um-desenvolvedor-razoes-pra-voce-nao-desanimar/
 67. **http://blog.caelum.com.br/kanban-dentro-de-ux/**
+68. **http://overax.com/produtividade/faca-mais-em-meio-dia-do-que-todo-mundo-faz-em-um-dia-inteiro/**
 
 -------------------
