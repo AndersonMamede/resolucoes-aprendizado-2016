@@ -11,6 +11,8 @@
 1. http://blog.andersonmamede.com.br/autocomplete-de-endereco-pelo-CEP/
 2. http://blog.andersonmamede.com.br/preview-de-imagem-antes-do-upload-pre-visualizacao/
 3. http://blog.andersonmamede.com.br/aumentando-a-produtividade-no-scriptcase/
+4. http://blog.andersonmamede.com.br/como-verificar-se-o-captcha-e-valido-no-scriptcase/
+5. http://blog.andersonmamede.com.br/upload-de-arquivos-com-ajax-jquery/
 
 -------------------
 
