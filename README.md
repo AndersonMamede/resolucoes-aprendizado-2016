@@ -17,7 +17,13 @@
 -------------------
 
 
-## Tornar "Quem é esse Pokémon" opensource (0/1)
+## :heavy_check_mark: Fazer contribuições para 1 projeto open source (1/1)
+1. https://github.com/phpdocbrbridge/traducao (tradução oficial da documentação do PHP)
+
+-------------------
+
+
+## Tornar "Quem é esse Pokémon" open source (0/1)
 
 -------------------
 
