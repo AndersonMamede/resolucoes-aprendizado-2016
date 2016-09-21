@@ -29,7 +29,7 @@
 
 
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
-1. AprovaOn (SC)
+1. AprovaFácil (SC)
 2. ? (iniciar)
 
 -------------------
@@ -45,7 +45,7 @@
 
 ## :heavy_check_mark: Criar 2 extensões para Chrome (2/2)
 1. Eu Achei Report (de uso interno)
-2. [ScriptCase Tools](https://chrome.google.com/webstore/detail/scriptcase-tools/mfokofbgiajojbgginjeglebmpejnpdm)
+2. [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools)
 
 -------------------
 
@@ -98,12 +98,13 @@
 -------------------
 
 
-## Assistir 6 filmes em inglês (e sem legendas) (5/6)
+## Assistir 6 filmes em inglês (e sem legendas) (6/6)
 1. Two Weeks
 2. The Innkeepers
 3. Frank & Alice
 4. Blue Jasmine
 5. Friends (série)
+6. Little Boy
 
 -------------------
 
