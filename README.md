@@ -98,7 +98,7 @@
 -------------------
 
 
-## Assistir 6 filmes em inglês (e sem legendas) (6/6)
+## :heavy_check_mark: Assistir 6 filmes em inglês (e sem legendas) (6/6)
 1. Two Weeks
 2. The Innkeepers
 3. Frank & Alice
