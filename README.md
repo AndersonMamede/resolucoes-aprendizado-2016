@@ -9,10 +9,12 @@
 
 ## Escrever 12 artigos para o blog
 1. http://blog.andersonmamede.com.br/autocomplete-de-endereco-pelo-CEP/
-2. http://blog.andersonmamede.com.br/preview-de-imagem-antes-do-upload-pre-visualizacao/
-3. http://blog.andersonmamede.com.br/aumentando-a-produtividade-no-scriptcase/
-4. http://blog.andersonmamede.com.br/como-verificar-se-o-captcha-e-valido-no-scriptcase/
-5. http://blog.andersonmamede.com.br/upload-de-arquivos-com-ajax-jquery/
+2. http://blog.andersonmamede.com.br/image-preview-before-upload/
+3. http://blog.andersonmamede.com.br/improving-productivity-in-scriptcase-environment/
+4. http://blog.andersonmamede.com.br/how-to-check-if-captcha-is-valid-in-scriptcase/
+5. http://blog.andersonmamede.com.br/file-upload-using-ajax-jquery/
+6. http://blog.andersonmamede.com.br/php-session-behind-the-scenes/
+7. http://blog.andersonmamede.com.br/how-to-show-notifications-outside-the-browser/
 
 -------------------
 
