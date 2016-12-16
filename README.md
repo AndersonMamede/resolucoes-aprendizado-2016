@@ -58,11 +58,6 @@
 -------------------
 
 
-## Iniciar 1 projeto (carrinho) usando Arduino (0/1)
-
--------------------
-
-
 ## Criar 1 projeto que utilize Chromecast (0/1)
 
 -------------------
@@ -87,7 +82,7 @@
 
 ## Ler 3 livros em inglês (1/3)
 1. If I stay (Gayle Forman)
-2. Harry Potter and the Goblet of Fire (iniciar)
+2. Harry Potter and the Goblet of Fire
 3. Harry Potter and the Order of the Phoenix (iniciar)
 
 -------------------
