@@ -32,7 +32,7 @@
 
 ## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
 1. AprovaFácil (SC)
-2. ? (iniciar)
+2. [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools)
 
 -------------------
 
