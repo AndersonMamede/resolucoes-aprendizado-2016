@@ -30,7 +30,7 @@
 -------------------
 
 
-## Criar 2 projetos utilizando tecnologias recém aprendidas (1/2)
+## :heavy_check_mark: Criar 2 projetos utilizando tecnologias recém aprendidas (2/2)
 1. AprovaFácil (SC)
 2. [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools)
 
@@ -45,9 +45,10 @@
 -------------------
 
 
-## :heavy_check_mark: Criar 2 extensões para Chrome (2/2)
+## :heavy_check_mark: Criar 2 extensões para Chrome (3/2)
 1. Eu Achei Report (de uso interno)
 2. [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools)
+3. Article Saver (uso pessoal)
 
 -------------------
 
